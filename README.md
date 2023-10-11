@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
 - [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
 
 
-
 ## Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raaz-gupta-0426a3198/)
