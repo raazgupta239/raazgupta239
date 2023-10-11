@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, I'm Raaz Gupta 👋
 
-<!--
-**raazgupta239/raazgupta239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm constantly learning and evolving in the field of frontend development.
+- 🔭 I'm currently learning react for frontend development.
+- 📫 You can reach me at [(raazgupta958@gmail.com)] or through my [personal website](https://www.raazgupta.com.np).
+
+## My Skills
+
+- 🔧 HTML, CSS, JavaScript
+- 🔧 React.js
+- 🔧 UI/UX Design
+- 🔧 Responsive Web Development
+  
+
+
+
+You can explore more of my work on [my website](https://www.raazgupta.com.np) 
+
+## Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/raaz-gupta-0426a3198/)
+- 🌐 [Website](https://www.raazgupta.com.np)
+- 📧 [Email](raazgupta958@gmail.com)
+
+Feel free to connect with me, and let's chat about frontend development or any exciting projects you have in mind!
+
+Thank you for visiting my GitHub profile. Let's build something amazing together! 🚀
