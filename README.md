@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
   </a>
 
-$$Achievents
+##Achievents
 [![An image of @raazgupta239's Holopin badges, which is a link to view their full Holopin profile](holopin.io/@raazgupta239)](holopin.io/@raazgupta239)
 
 
