@@ -15,11 +15,6 @@ Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
 - 🔧 UI/UX Design
 - 🔧 Responsive Web Development
 
-  ## Achievements
-
-Here are some of my achievements:
-
-[![Badge 1](https://github.com/raazgupta239/DSA-in-C-C-/pull/1)](Badge 1 Link)
 
 ## Connect with Me
 
