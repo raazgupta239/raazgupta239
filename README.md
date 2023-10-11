@@ -14,11 +14,12 @@ Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
 - 🔧 React.js
 - 🔧 UI/UX Design
 - 🔧 Responsive Web Development
-  
 
+  ## Achievements
 
+Here are some of my achievements:
 
-You can explore more of my work on [my website](https://www.raazgupta.com.np) 
+[![Badge 1](https://github.com/raazgupta239/DSA-in-C-C-/pull/1)](Badge 1 Link)
 
 ## Connect with Me
 
@@ -26,6 +27,6 @@ You can explore more of my work on [my website](https://www.raazgupta.com.np)
 - 🌐 [Website](https://www.raazgupta.com.np)
 - 📧 [Email](raazgupta958@gmail.com)
 
-Feel free to connect with me, and let's chat about frontend development or any exciting projects you have in mind!
+Feel free to connect with me, and let's chat about frontend development.
 
 Thank you for visiting my GitHub profile. Let's build something amazing together! 🚀
