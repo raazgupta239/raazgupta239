@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
 - 🔧 UI/UX Design
 - 🔧 Responsive Web Development
 
-## Languages 
+## Languages and Tools
 
 - <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
