@@ -39,6 +39,8 @@ Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
   </a>
 
+|<img align="center" src="https://github-readme-stats-git-master-codersuresh.vercel.app/api?username=codersuresh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CoderSuresh's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersuresh&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 ## Connect with Me
 
