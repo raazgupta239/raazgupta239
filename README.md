@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm Raaz Gupta, a passionate frontend developer.
 
 - 🔧 HTML, CSS, JavaScript
 - 🔧 React.js
+- 🔧 Node.js
 - 🔧 UI/UX Design
 - 🔧 Responsive Web Development
 
